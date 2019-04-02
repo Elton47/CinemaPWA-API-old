@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Elton47/CinemaPWA-API/issues"
   },
-  "homepage": "https://github.com/Elton47/CinemaPWA-API#readme"
+  "homepage": "https://github.com/Elton47/CinemaPWA-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  }
 }
