@@ -1,0 +1,24 @@
+{
+  "name": "cinemapwa-api",
+  "version": "0.0.1",
+  "description": "Simple NodeJs RESTful API for CinemaPWA application: https://elton47.github.io/CinemaPWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elton47/CinemaPWA-API.git"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "json"
+  ],
+  "author": "Elton Memishaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elton47/CinemaPWA-API/issues"
+  },
+  "homepage": "https://github.com/Elton47/CinemaPWA-API#readme"
+}
