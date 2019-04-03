@@ -4,6 +4,8 @@
   "description": "Simple NodeJs RESTful API for CinemaPWA application: https://elton47.github.io/CinemaPWA",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
+    "start__watch": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
