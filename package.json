@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index",
     "start__watch": "nodemon index",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
